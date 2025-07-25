@@ -1,6 +1,6 @@
 <div align="center">
   <h2>Hi there <img width="25" src="https://user-images.githubusercontent.com/52720489/204301028-338c8fd7-8a9c-490f-8007-4c302c5aa0c6.gif"> I am Jayawanth Rayakota Harnath</h2>
-  <h3>Backend Software Engineer</h3>
+  <h3>Software Engineer</h3>
 </div>
 <br/>
 <div style="display: flex; align-items: center; justify-content: space-between; max-width: 900px; margin: auto; width: 100%; flex-wrap: nowrap;">
@@ -12,10 +12,10 @@
           🔧 <b>DevOps & Automation</b> — Jenkins, GitLab CI/CD, Terraform <br/>
           🎯 <b>Always Learning</b> — Open to SDE Roles & Collaboration <br/>
         </p>
-       <a href="mailto:jayawanthr@gmail.com">
+       <a href="mailto:jayawanth.rh01@gmail.com">
           <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
       </a>
-      <a href="https://www.linkedin.com/in/jayawanthrh" target="_blank">
+      <a href="https://www.linkedin.com/in/jayawanthrayak" target="_blank">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
       </a>
       <a href="https://github.com/JayawanthRh" target="_blank">
