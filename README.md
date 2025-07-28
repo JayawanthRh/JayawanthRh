@@ -60,9 +60,8 @@
 ### ⚡ GitHub & LeetCode Stats
 
 <div align="center">
-
-<!-- GitHub Streak -->
-<img width="390" src="https://streak-stats.demolab.com/?user=JayawanthRh&theme=default&border_radius=10" alt="GitHub Streak" />
+<!-- GitHub Stats -->
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=JayawanthRh&show_icons=true&theme=default&count_private=true&border_radius=10" alt="GitHub Stats" />
 
 <!-- LeetCode Card -->
 <img width="390" src="https://leetcard.jacoblin.cool/Jayawanth_01?theme=dark&font=Baloo+Bhai&radius=20" alt="LeetCode Stats" />
