@@ -5,21 +5,15 @@
 
 <br/>
 
-<div align="center">
-  <img src="github.png" width="200" alt="Jayawanth Coding" />
-</div>
-
-<br/>
-
 ### 💼 About Me
 
 💻 **Backend Developer** — Java, Spring Boot, Kafka, GraphQL  
-🚀 **Cloud Native Solutions** — AWS, IBM Cloud, Microservices, CI/CD, Docker  
-🔁 **Real-time Systems** — Kafka-based Event-Driven Architecture  
+🚀 **Cloud Native** — AWS, IBM Cloud, Microservices, CI/CD  
+🔁 **Real-time Systems** — Kafka Event-Driven Architecture  
 🔧 **DevOps & Automation** — Jenkins, GitLab CI/CD, Terraform  
 🎯 **Always Learning** — Open to SDE Roles & Collaboration  
 
-<br/>
+---
 
 ### 📫 Connect with Me
 
@@ -27,7 +21,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayawanthrayak)
 [![GitHub](https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JayawanthRh)
 
-<br/>
+---
 
 ### 🛠️ Tech Stack
 
@@ -44,27 +38,14 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<br/>
+---
 
-<h2 align="center">⚡ GitHub & LeetCode Stats ⚡</h2>
+### ⚡ GitHub & LeetCode Stats
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img width="390" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=JayawanthRh&count_private=true&border_radius=10" alt="GitHub Streak" />
-      </td>
-      <td>
-        <img width="390" height="200" src="https://github-readme-stats.vercel.app/api?username=JayawanthRh&show_icons=true&count_private=true&border_radius=10" alt="GitHub Stats" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img width="390" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayawanthRh&hide=HTML&langs_count=8&layout=compact&border_radius=10" alt="Top Languages" />
-      </td>
-      <td>
-        <img width="390" height="200" src="https://leetcard.jacoblin.cool/Jayawanth_01?border=0&radius=20" alt="LeetCode Stats" />
-      </td>
-    </tr>
-  </table>
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=JayawanthRh&show_icons=true&theme=default&count_private=true&border_radius=10" alt="GitHub Stats" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayawanthRh&layout=compact&langs_count=8&hide=html&theme=default&border_radius=10" alt="Top Languages" />
+  <br/>
+  <img width="390" src="https://streak-stats.demolab.com?user=JayawanthRh&theme=default&border_radius=10" alt="GitHub Streak" />
+  <img width="390" src="https://leetcard.jacoblin.cool/Jayawanth_01?theme=dark&font=Baloo+Bhai&radius=20" alt="LeetCode Stats" />
 </div>
