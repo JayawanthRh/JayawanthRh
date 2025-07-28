@@ -78,6 +78,17 @@
 <!-- HackerRank Custom Badge -->
 <a href="https://www.hackerrank.com/JAYAWANTH_RH" target="_blank">
   <img width="390" src="https://img.shields.io/badge/HackerRank-Problem_Solving:179,_SQL:180,_Java:200-brightgreen?style=for-the-badge&logo=hackerrank" alt="HackerRank Stats" />
+
+  <!-- HackerRank Stats Card -->
+<div style="text-align:center; margin-top: 20px;">
+  <a href="https://www.hackerrank.com/JAYAWANTH_RH" target="_blank">
+    <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/hackerrank-card.png" 
+         alt="HackerRank Stats for Jayawanth" 
+         width="390" 
+         style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);"/>
+  </a>
+</div>
+
 </a>
 
 
