@@ -2,7 +2,6 @@
   <h2>Hi there <img width="25" src="https://user-images.githubusercontent.com/52720489/204301028-338c8fd7-8a9c-490f-8007-4c302c5aa0c6.gif"> I am Jayawanth Rayakota Harnath</h2>
   <h3>Software Engineer | Backend Developer</h3>
 </div>
-
 <br/>
 
 ### 💼 About Me
@@ -74,9 +73,5 @@
 </div>
 
 </a>
-
-
-
-
 </div>
 
