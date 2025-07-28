@@ -1,30 +1,35 @@
 <div align="center">
   <h2>Hi there <img width="25" src="https://user-images.githubusercontent.com/52720489/204301028-338c8fd7-8a9c-490f-8007-4c302c5aa0c6.gif"> I am Jayawanth Rayakota Harnath</h2>
-  <h3>Software Engineer</h3>
+  <h3>Software Engineer | Backend Developer</h3>
 </div>
+
 <br/>
-<div style="display: flex; align-items: center; justify-content: space-between; max-width: 900px; margin: auto; width: 100%; flex-wrap: nowrap;">
-        <img align="right" src="github.png" alt="Coding" style="width: 200px; height: auto;">
-        <p align="left">
-          💻 <b>Backend Developer</b> — Java, Spring Boot, Kafka, GraphQL <br/>
-          🚀 <b>Cloud Native Solutions</b> — AWS, IBM Cloud, Microservices, CI/CD, Docker <br/>
-          🔁 <b>Real-time Systems</b> — Kafka-based Event-Driven Architecture <br/>
-          🔧 <b>DevOps & Automation</b> — Jenkins, GitLab CI/CD, Terraform <br/>
-          🎯 <b>Always Learning</b> — Open to SDE Roles & Collaboration <br/>
-        </p>
-       <a href="mailto:jayawanth.rh01@gmail.com">
-          <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-      </a>
-      <a href="https://www.linkedin.com/in/jayawanthrayak" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>
-      <a href="https://github.com/JayawanthRh" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" />
-      </a>     
+
+<div align="center">
+  <img src="github.png" width="200" alt="Jayawanth Coding" />
 </div>
+
 <br/>
+
+### 💼 About Me
+
+💻 **Backend Developer** — Java, Spring Boot, Kafka, GraphQL  
+🚀 **Cloud Native Solutions** — AWS, IBM Cloud, Microservices, CI/CD, Docker  
+🔁 **Real-time Systems** — Kafka-based Event-Driven Architecture  
+🔧 **DevOps & Automation** — Jenkins, GitLab CI/CD, Terraform  
+🎯 **Always Learning** — Open to SDE Roles & Collaboration  
+
 <br/>
-<h4>🛠️ Tech Stack:</h4>
+
+### 📫 Connect with Me
+
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:jayawanth.rh01@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayawanthrayak)
+[![GitHub](https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JayawanthRh)
+
+<br/>
+
+### 🛠️ Tech Stack
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
@@ -40,25 +45,25 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <br/>
-<h2 align="center">⚡ Stats ⚡</h2>
-<br/>
+
+<h2 align="center">⚡ GitHub & LeetCode Stats ⚡</h2>
 
 <div align="center">
-  <table border="0">
+  <table>
     <tr>
       <td>
-        <img width="390" height="200" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=JayawanthRh&count_private=true&border_radius=10" alt="streak stats"/>
+        <img width="390" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=JayawanthRh&count_private=true&border_radius=10" alt="GitHub Streak" />
       </td>
       <td>
-        <img width="390" height="200" src="https://github-readme-stats-salesp07.vercel.app/api?username=JayawanthRh&count_private=true&show_icons=true&rank_icon=github&border_radius=10" alt="readme stats" />
+        <img width="390" height="200" src="https://github-readme-stats.vercel.app/api?username=JayawanthRh&show_icons=true&count_private=true&border_radius=10" alt="GitHub Stats" />
       </td>
     </tr>
     <tr>
       <td>
-        <img width="390" height="200" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=JayawanthRh&hide=HTML&langs_count=8&layout=compact&border_radius=10" alt="top langs" />
+        <img width="390" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayawanthRh&hide=HTML&langs_count=8&layout=compact&border_radius=10" alt="Top Languages" />
       </td>
       <td>
-        <img width="390" height="200" src="https://leetcode.jacoblin.cool/Jayawanth_01?border=0&radius=20" alt="leetcode stats" />
+        <img width="390" height="200" src="https://leetcard.jacoblin.cool/Jayawanth_01?border=0&radius=20" alt="LeetCode Stats" />
       </td>
     </tr>
   </table>
